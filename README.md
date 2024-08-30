@@ -1,6 +1,6 @@
 ## WCF (Windows Communication Foundation) tutorial:
 
-## Table of Contents
+### Table of Contents
 
 1. **Introduction to WCF**
    - Overview of WCF
