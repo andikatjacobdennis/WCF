@@ -1,4 +1,4 @@
-# WCF (Windows Communication Foundation) tutorial:
+## WCF (Windows Communication Foundation) tutorial:
 
 ## Table of Contents
 
